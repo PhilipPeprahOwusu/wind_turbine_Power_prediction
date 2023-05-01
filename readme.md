@@ -1,5 +1,5 @@
 # Basic Machine Learning Wind Turbine Project
-This is where school where we used different machine learning models to determine which one accurately predicts wind turbine power generation.
+This is was school where we used different machine learning models to determine which one accurately predicts wind turbine power generation.
 
 The methodology will include machine learning techniques that balance optimality with high efficiency and accuracy. These techniques will help us identify the best model to fit our data and predict classes.
 
